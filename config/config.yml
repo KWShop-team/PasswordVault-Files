@@ -1,0 +1,11 @@
+# PasswordVault config
+# DO NOT Change anything. Changing this can reduce security.
+
+settings:
+  encrypt-pass: true
+  pin: '' # Hashed for security.
+  theme: 'Default'
+
+program:
+  reset-data: false # If you set on true, program will destroy data. YOU GONNA LOSE ALL DATA!
+   
